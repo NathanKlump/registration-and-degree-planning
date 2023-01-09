@@ -1,0 +1,32 @@
+[
+    {
+      "name" : "Register Classes",
+      "image" : "class-registration-icon.png",
+      "link" : "https://bstreg.oakland.edu/StudentRegistrationSsb/ssb/registration/registration"
+    },
+    {
+      "name" : "Final Exam Dates",
+      "image" : "infoicon.svg",
+      "link" : "https://www.oakland.edu/registrar/important-dates/#tab-4"
+    },
+    {
+      "name" : "Academic Calendar",
+      "image" : "academic-calendar-icon.png",
+      "link" : "https://www.oakland.edu/important-dates"
+    },
+    {
+      "name" : "Academic Catalog",
+      "image" : "library-icon-alt.png",
+      "link" : "http://catalog.oakland.edu"
+    },
+    {
+      "name" : "Progress to Degree (Degree Works)",
+      "image" : "progress-degree-icon.png",
+      "link" : "https://dwsbp.oakland.edu:8505/"
+    },
+    {
+      "name" : "Undergraduate Advising",
+      "image" : "undergraduate-advising-icon.png",
+      "link" : "https://www.oakland.edu/advising"
+    }
+]
